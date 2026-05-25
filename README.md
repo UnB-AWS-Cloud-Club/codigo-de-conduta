@@ -22,7 +22,7 @@ Se você vê alguém que está fazendo um esforço extra para garantir que nossa
 - Exercite consideração e respeito em seu discurso e ações.
 - Tente colaborar antes de iniciar conflitos.
 - Abstenha-se de comportamentos e comunicações humilhantes, discriminatórios ou abusivos.
-- Esteja atento ao seu ambiente e às demais pessoas presentes. Notifique uma pessoa associada ao AWS Community Day Brasil se você notar uma situação perigosa, alguém sofrendo contrangimento, ou violações deste Código de Conduta, mesmo que lhe pareçam pouco importantes.
+- Esteja atento ao seu ambiente e às demais pessoas presentes. Notifique uma pessoa associada ao AWS Student Community Day Brasília se você notar uma situação perigosa, alguém sofrendo contrangimento, ou violações deste Código de Conduta, mesmo que lhe pareçam pouco importantes.
 - Espaços de eventos comunitários podem ser compartilhados com membros do público; por gentileza, seja respeitoso com todos as pessoas que estejam presentes nesses locais.
 
 # Comportamentos Inaceitáveis
@@ -33,7 +33,7 @@ O assédio inclui: comentários verbais, escritos ou visuais (incluindo slides d
 
 # Consequências do comportamento inaceitável
 
-Não serão tolerados comportamentos inaceitáveis de qualquer pessoa, incluindo aquelas associadas ao AWS Community Day Brasil. Espera-se que as pessoas interrompam imediatamente qualquer comportamento inaceceitável assim que lhes for solicitado.
+Não serão tolerados comportamentos inaceitáveis de qualquer pessoa, incluindo aquelas associadas ao AWS Student Community Day Brasília. Espera-se que as pessoas interrompam imediatamente qualquer comportamento inaceceitável assim que lhes for solicitado.
 
 Se uma pessoa tiver um comportamento inaceitável, os associados podem tomar qualquer medida que considerem apropriada, incluindo a retirada temporária.
 
@@ -54,4 +54,4 @@ Esperamos que todas as pessoas que visitam ou participam da comunidade do AWS St
 # Licença e atribuição
 
 Este Código de Conduta é baseado no Código de Conduta do [AWS User Group São Paulo](https://github.com/AWSUserGroupSP/codigo-de-conduta)
-E do [AWS Community Day Brasil](https://github.com/awscommunitydaybrasil/codigo-de-conduta)
+E do [AWS Student Community Day Brasília](https://github.com/awscommunitydaybrasil/codigo-de-conduta)
