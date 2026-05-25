@@ -53,5 +53,5 @@ Esperamos que todas as pessoas que visitam ou participam da comunidade do AWS St
 
 # Licença e atribuição
 
-Este Código de Conduta é baseado no Código de Conduta do [AWS User Group São Paulo](https://github.com/AWSUserGroupSP/codigo-de-conduta)
-E do [AWS Student Community Day Brasília](https://github.com/awscommunitydaybrasil/codigo-de-conduta)
+Este Código de Conduta é baseado no Código de Conduta do [AWS User Group São Paulo](https://github.com/AWSUserGroupSP/codigo-de-conduta).
+E do [AWS Community Day Brasil](https://github.com/awscommunitydaybrasil/codigo-de-conduta)
