@@ -27,7 +27,7 @@ Se você vê alguém que está fazendo um esforço extra para garantir que nossa
 
 # Comportamentos Inaceitáveis
 
-Comportamentos inaceitáveis incluem, por exemplo: intimidação, assédio, comunicações ou ações abusivas, discriminatórias, depreciativas ou humilhantes, de qualquer participante em nossas comunidades on-line, em todos os eventos relacionados e em comunicações individuais realizadas no contexto de atividades do AWS Community Day Brasil.
+Comportamentos inaceitáveis incluem, por exemplo: intimidação, assédio, comunicações ou ações abusivas, discriminatórias, depreciativas ou humilhantes, de qualquer participante em nossas comunidades on-line, em todos os eventos relacionados e em comunicações individuais realizadas no contexto de atividades do AWS Student Community Day Brasília.
 
 O assédio inclui: comentários verbais, escritos ou visuais (incluindo slides de apresentação) prejudiciais ou preconceituosos, relacionados a gênero, orientação sexual, raça, religião, aparência física, deficiência; uso inapropriado de nudez e/ou imagens sexuais; representações inapropriadas de violência; intimidação deliberada, perseguir ou importunar; fotografar ou gravar de modo abusivo; perturbação repetida de conversas ou outros eventos; contato físico ou visual inapropriado, ou abordagem sexual. 
 
@@ -41,7 +41,7 @@ Após apuração dos fatos, os organizadores podem decidir até mesmo pela expul
 
 # Se você testemunha ou está sujeito a um comportamento inaceitável
 
-Se você estiver sujeito ou testemunhar um comportamento inaceitável, ou tiver outras preocupações, por favor notifique uma pessoa associada assim que possível. Você pode encontrar uma lista de pessoas associadas no site do AWS Community Day Brasil no meetup.com. Além disso, as pessoas associadas estão disponíveis para ajudar as pessoas que sofreram um comportamento inaceitável a se sentirem seguras. 
+Se você estiver sujeito ou testemunhar um comportamento inaceitável, ou tiver outras preocupações, por favor notifique uma pessoa associada assim que possível. Você pode encontrar uma lista de pessoas associadas no site do AWS Student Community Day Brasília no meetup.com. Além disso, as pessoas associadas estão disponíveis para ajudar as pessoas que sofreram um comportamento inaceitável a se sentirem seguras. 
 
 # Como responder a uma queixa
 
@@ -49,8 +49,9 @@ Se você acha que foi falsamente ou injustamente acusado de violar este Código 
 
 # Escopo
 
-Esperamos que todas as pessoas que visitam ou participam da comunidade do AWS Community Day Brasil sigam este Código de Conduta em todos os locais — on-line e presenciais — bem como em todas as comunicações relacionadas às atividades do grupo. 
+Esperamos que todas as pessoas que visitam ou participam da comunidade do AWS Student Community Day Brasília sigam este Código de Conduta em todos os locais — on-line e presenciais — bem como em todas as comunicações relacionadas às atividades do grupo. 
 
 # Licença e atribuição
 
 Este Código de Conduta é baseado no Código de Conduta do [AWS User Group São Paulo](https://github.com/AWSUserGroupSP/codigo-de-conduta)
+E do [AWS Community Day Brasil](https://github.com/awscommunitydaybrasil/codigo-de-conduta)
